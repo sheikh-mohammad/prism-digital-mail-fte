@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e39becf7e8356a",
+        "id": "5ca797798a68b8cd",
         "type": "tabs",
         "children": [
           {
-            "id": "124642d1fc335752",
+            "id": "df9ce14d4c90e3b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "203ad643a939381a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4625b3842b638696",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "right": {
     "id": "159936fecd7e0e67",
@@ -110,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -199,8 +176,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "124642d1fc335752",
+  "active": "65496831055d3a45",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Done",
+    "Needs_Action",
+    "Inbox",
+    "Company_Handbook.md",
+    "Welcome.md",
+    "Dashboard.md"
   ]
 }
